@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Derek Dsouza
 
-<!--
-**derekdesouza13/derekdesouza13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student
+### Full Stack Developer | AI Enthusiast | Gym & Basketball
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 SY B.Tech CSE Student
+- 💻 Building full-stack and AI projects
+- 🏀 Basketball player
+- 🌍 Raised in the Middle East
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend:
+HTML, CSS, React.js, Tailwind
+
+Backend:
+Node.js, Express
+
+Languages:
+JavaScript, C++, Python, C
+
+Database:
+MySQL, MongoDB
+
+Tools:
+Git, GitHub, Vercel
+
+---
+
+## 📊 GitHub Stats
+
+(stats here)
+
+---
+
+## 🔥 Streak Stats
+
+(streak here)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn
+Portfolio
+Email
+
+## 📊 GitHub Stats
+
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdesouza13&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekdesouza13&layout=compact&theme=tokyonight)
