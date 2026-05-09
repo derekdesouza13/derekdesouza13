@@ -47,12 +47,15 @@
 <p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=derekdesouza13&theme=tokyonight)](https://git.io/streak-stats)
-
 </p>
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/derekdesouza13/derekdesouza13/blob/output/github-contribution-grid-snake.svg)
 
 ## Profile Views
 
+<p align="center">
+
 ![](https://komarev.com/ghpvc/?username=derekdesouza13&color=blue)
+</p>
