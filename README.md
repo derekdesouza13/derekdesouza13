@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,docker" />
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Lets Connect !
 
 <p align="center">
 <a href="https://www.linkedin.com/in/derekdesouza1310/">
