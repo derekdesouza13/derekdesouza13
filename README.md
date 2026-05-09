@@ -31,6 +31,11 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://www.instagram.com/in/derek_fredrick/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 ## 📊 GitHub Stats
 
 <p align="center">
