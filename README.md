@@ -13,10 +13,10 @@
 - 📍 India
 
 ---
-## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,mysql,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,vscode,vercel,linux" />
 </p>
 
 ## 🌐 Connect With Me
