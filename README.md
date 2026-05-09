@@ -26,9 +26,17 @@
 
 ## 🌐 Connect With Me
 
-LinkedIn
-Portfolio
-Email
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/derekdesouza1310/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:derekdesouza1310@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 ## 📊 GitHub Stats
 
