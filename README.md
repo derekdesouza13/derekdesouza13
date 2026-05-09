@@ -8,7 +8,7 @@
 
 - 🎓 TY B.Tech CSE Student
 - 💻 Building full-stack and AI projects
-- 🏀 Basketball player
+- 🏀 I play Basketball :D
 - 🌍 Born and raised in the Middle East
 - 📍 India
 
