@@ -16,7 +16,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,vscode,vercel,postman,aws,docker,render" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,vscode,docker" />
 </p>
 
 ## 🌐 Connect With Me
