@@ -13,7 +13,7 @@
 - 📍 India
 
 ---
-<h2 align="center">🛠️ Languages and Tools</h2>
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,vscode,vercel,postman,aws,docker,render" />
