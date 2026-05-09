@@ -53,9 +53,8 @@
 
 ![snake gif](https://github.com/derekdesouza13/derekdesouza13/blob/output/github-contribution-grid-snake.svg)
 
-## Profile Views
+## 👀 Profile Views
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=derekdesouza13&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=derekdesouza13&color=blue&style=flat" />
 </p>
