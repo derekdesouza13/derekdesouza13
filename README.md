@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=derekdesouza13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=derekdesouza13" />
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekdesouza13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
