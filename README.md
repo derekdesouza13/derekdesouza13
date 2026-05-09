@@ -33,6 +33,10 @@
 <a href="https://www.instagram.com/derek_fredrick/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
+<a href="https://x.com/derek_desouza">
+<img src="https://skillicons.dev/icons?i=x" />
+</a>
 </p>
 
 ## 📊 GitHub Stats
