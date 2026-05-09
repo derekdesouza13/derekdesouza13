@@ -23,24 +23,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,mysql,git,tailwind" />
 </p>
-## 🛠️ Tech Stack
-
-Frontend:
-HTML, CSS, React.js, Tailwind
-
-Backend:
-Node.js, Express
-
-Languages:
-JavaScript, C++, Python, C
-
-Database:
-MySQL, MongoDB
-
-Tools:
-Git, GitHub, Vercel
-
----
 
 ## 🌐 Connect With Me
 
