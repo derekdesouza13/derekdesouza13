@@ -13,9 +13,8 @@
 🌍 Born & Raised in the Middle East <br>
 📍 India
 </p>
----
 
-## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages and Tools<h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,docker" />
