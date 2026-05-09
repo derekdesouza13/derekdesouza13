@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Basketball+Player;Computer+Science+Engineer&center=true&width=500&height=50">
 </p>
----
 
 ## 🚀 About Me
 
