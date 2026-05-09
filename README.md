@@ -4,15 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Basketball+Player;Computer+Science+Engineer;Building+Real-World+Projects&center=true&width=500&height=50">
 </p>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 TY B.Tech CSE Student
-- 💻 Building full-stack and AI projects
-- 🏀 I play Basketball :D
-- 🌍 Born and raised in the Middle East
-- 📍 India
-
+<p align="center">
+🎓 TY B.Tech CSE Student <br>
+💻 Building Full Stack & AI Projects <br>
+🏀 Basketball Player <br>
+🌍 Born & Raised in the Middle East <br>
+📍 India
+</p>
 ---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
