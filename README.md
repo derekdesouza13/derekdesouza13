@@ -13,7 +13,7 @@
 🌍 Born & Raised in the Middle East <br>
 📍 India
 </p>
-----------------------------------------------------------------------------------------------------------------------------------
+
 <h2 align="center">🛠️ Languages and Tools<h2>
 
 <p align="center">
