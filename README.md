@@ -29,12 +29,11 @@
 <a href="mailto:derekdesouza1310@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
 
-<p align="center">
-<a href="https://www.instagram.com/in/derek_fredrick/">
+<a href="https://www.instagram.com/derek_fredrick/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+</p>
 
 ## 📊 GitHub Stats
 
