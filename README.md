@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://x.com/derek_desouza">
-<img src="https://skillicons.dev/icons?i=x" />
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
 
