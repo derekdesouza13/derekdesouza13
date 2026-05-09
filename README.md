@@ -69,3 +69,7 @@ Email
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=derekdesouza13&theme=tokyonight)](https://git.io/streak-stats)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/derekdesouza13/derekdesouza13/blob/output/github-contribution-grid-snake.svg)
