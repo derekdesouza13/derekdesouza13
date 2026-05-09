@@ -44,9 +44,9 @@
 </p>
 
 ## 🔥 Contribution Streak
-<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=derekdesouza13&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=derekdesouza13&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
