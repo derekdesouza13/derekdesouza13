@@ -57,3 +57,7 @@ Email
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdesouza13&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekdesouza13&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=derekdesouza13&theme=tokyonight)](https://git.io/streak-stats)
