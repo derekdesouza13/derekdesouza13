@@ -42,18 +42,6 @@ Git, GitHub, Vercel
 
 ---
 
-## 📊 GitHub Stats
-
-(stats here)
-
----
-
-## 🔥 Streak Stats
-
-(streak here)
-
----
-
 ## 🌐 Connect With Me
 
 LinkedIn
