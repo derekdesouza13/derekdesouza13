@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Basketball+Player;Computer+Science+Engineer;Building+Real-World+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=CSE+Student;Builder;Problem+Solver;Building+AI+%26+Full-Stack+Projects;Passionate+About+Technology" />
 </p>
-
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
