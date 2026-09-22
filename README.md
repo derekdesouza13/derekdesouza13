@@ -6,7 +6,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🎓 TY B.Tech CSE Student <br>
+🎓 FY B.Tech CSE Student <br>
 💻 Building Full Stack & AI Projects <br>
 🏀 Basketball Player <br>
 🌍 Born & Raised in the Middle East <br>
