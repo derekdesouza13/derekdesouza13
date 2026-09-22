@@ -6,10 +6,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🎓 FY B.Tech CSE Student <br>
+🎓 Final Year B.Tech CSE Student <br>
 💻 Building Full Stack & AI Projects <br>
 🏀 Basketball Player <br>
-🌍 Born & Raised in the Middle East <br>
+🌍 Interested in contributing and making a difference <br>
 📍 India
 </p>
 
